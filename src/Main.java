@@ -10,6 +10,5 @@ public class Main {
         System.out.println("Разность: " + (number1 - number2));
         System.out.println("Произведение: " + number1 * number2);
         System.out.println("Частное: " + ((double) number1 / number2));
-
     }
 }
